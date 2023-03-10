@@ -12,3 +12,6 @@ The goal of this project is to design a custom PCB to serve as a basestation and
   - LM1084-5.0 (max. 27V in, max 5A out) as first stage
   - AMS117-3.3 as second stage
 - Connector for optional GPS with selectable 5v/3.3V power
+
+## ToDo
+Fix variant.h
