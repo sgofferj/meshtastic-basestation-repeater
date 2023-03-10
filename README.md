@@ -1,6 +1,6 @@
 # Basestation / repeater for Meshtastic
 
-**NOTE:** The project has just be started. I put it on Github early to enable sharing of ideas and collaboration
+**NOTE:** The project has just been started. I put it on Github early to enable sharing of ideas and collaboration
 
 ## Description
 The goal of this project is to design a custom PCB to serve as a basestation and/or repeater for [Meshtastic](https://www.meshtastic.org/). Ideally, it would be put in a weatherproof enclosure outdoors.
